@@ -282,7 +282,7 @@ img {
     font-weight: var(--font-semi);
     border-radius: 0.5rem;
     background: var(--gardient-color);
-    margin-top: var(--mb-8);
+    border: 100px;
 }
 /* Skills */
 
